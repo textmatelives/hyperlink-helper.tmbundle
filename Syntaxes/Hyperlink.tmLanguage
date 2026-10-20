@@ -4,6 +4,8 @@
 <dict>
 	<key>fileTypes</key>
 	<array/>
+	<key>hideFromUser</key>
+	<true/>
 	<key>injectionSelector</key>
 	<string>text, string -string.regexp, comment</string>
 	<key>name</key>
